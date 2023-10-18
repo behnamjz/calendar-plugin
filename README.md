@@ -9,7 +9,7 @@ Display of Selected Dates: In upcoming releases, I aim to enhance the user exper
 
 These improvements will make the React Calendar more user-friendly and efficient, catering to a wider range of user needs and preferences.
 
-## Getting Started with Create React App
+## How to Started
 In the project directory, you can run:
 
 ### `npm install`
