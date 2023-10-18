@@ -1,4 +1,5 @@
 # About Calendar
+![Demo](Screenshot.png)
 In this project, I'm building a React Calendar with TypeScript. In this initial version, the calendar allows you to select two dates: a "from" date and a "to" date. The "from" date represents the starting point, and the "to" date represents the ending point for a date range selection.
 
 For future versions of this calendar plugin, I have planned two key improvements:
@@ -9,7 +10,7 @@ Display of Selected Dates: In upcoming releases, I aim to enhance the user exper
 
 These improvements will make the React Calendar more user-friendly and efficient, catering to a wider range of user needs and preferences.
 
-## Getting Started with Create React App
+## How to run project
 In the project directory, you can run:
 
 ### `npm install`
